@@ -11,3 +11,6 @@ npm install -g snitchmail
 snitchmail -n "john smith" -d example.com
 ```
 
+## License 
+MIT
+
