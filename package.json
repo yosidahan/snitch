@@ -1,0 +1,32 @@
+{
+  "name": "snitchmail",
+  "version": "1.0.1",
+  "description": "Snitchmail will find and verify any email address based on full name and domain",
+  "main": "index.js",
+  "preferGlobal": "true",
+  "scripts": {
+    "start": "node bin/index.js index.js"
+  },
+  "bin": {
+    "snitchmail": "bin/index.js"
+  },
+  "keywords": [
+    "snitchmail",
+    "email",
+    "verify",
+    "email",
+    "finder"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yosidahan/snitch.git"
+  },
+  "author": "Yosi Dahan <yosi.dahans@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "commander": "^2.9.0",
+    "email-existence": "^0.1.5",
+    "swig": "^1.4.2"
+  }
+}
