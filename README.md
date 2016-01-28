@@ -1,10 +1,10 @@
 ## Install
 ```
-npm install -g snitch
+npm install -g snitchmail
 ```
 
 ## Usage
 ```
-snitch -n "john smith" -d example.com
+snitchmail -n "john smith" -d example.com
 ```
 
