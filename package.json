@@ -1,6 +1,6 @@
 {
   "name": "snitchmail",
-  "version": "1.0.21",
+  "version": "1.0.2",
   "description": "Snitchmail will find and verify any email address based on full name and domain",
   "main": "index.js",
   "preferGlobal": "true",
